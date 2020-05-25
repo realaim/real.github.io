@@ -1,9 +1,10 @@
 # Site settings
-title: 三叶草国际语
-SEOTitle: 三叶草国际语 - 让沟通更容易
+title: 软件视界
+SEOTitle: 视音频行业的未来在于软件
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
+email: realsoong@outlook.com
+description: "传统视音频充斥着信号传输、信号处理、五花八门的设备、接口和线材，随着互联网和软件深入各行各业，传统音视频行业也面临着被改革
+的命运，从业者看到软件和通信技术带来的极大便利于高效，越来越多的人引入软件和互联网技术服务客户"
 keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
 url: "https://klovien.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
